@@ -1,0 +1,22 @@
+﻿public enum RankTier
+{
+    Unranked,
+    Iron,
+    Bronze,
+    Silver,
+    Gold,
+    GoldPlus,
+    Platinum,
+    PlatinumPlus,
+    Emerald,
+    EmeraldPlus,
+    Diamond,
+    DiamondPlus,
+    Diamond2Plus,
+    Master,
+    MasterPlus,
+    Grandmaster,
+    Challenger,
+    OneTrick,
+    AllRanks
+}
